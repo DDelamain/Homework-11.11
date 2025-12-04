@@ -1,0 +1,14 @@
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\bin\Debug\net8.0\ex6.exe
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\bin\Debug\net8.0\ex6.deps.json
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\bin\Debug\net8.0\ex6.runtimeconfig.json
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\bin\Debug\net8.0\ex6.dll
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\bin\Debug\net8.0\ex6.pdb
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\obj\Debug\net8.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\obj\Debug\net8.0\ex6.AssemblyInfoInputs.cache
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\obj\Debug\net8.0\ex6.AssemblyInfo.cs
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\obj\Debug\net8.0\ex6.csproj.CoreCompileInputs.cache
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\obj\Debug\net8.0\ex6.dll
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\obj\Debug\net8.0\refint\ex6.dll
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\obj\Debug\net8.0\ex6.pdb
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\obj\Debug\net8.0\ex6.genruntimeconfig.cache
+D:\Users\dando\Desktop\IT\C#\11.11\ex6\obj\Debug\net8.0\ref\ex6.dll

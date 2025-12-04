@@ -1,0 +1,14 @@
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\bin\Debug\net8.0\ex7.exe
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\bin\Debug\net8.0\ex7.deps.json
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\bin\Debug\net8.0\ex7.runtimeconfig.json
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\bin\Debug\net8.0\ex7.dll
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\bin\Debug\net8.0\ex7.pdb
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\obj\Debug\net8.0\ex7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\obj\Debug\net8.0\ex7.AssemblyInfoInputs.cache
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\obj\Debug\net8.0\ex7.AssemblyInfo.cs
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\obj\Debug\net8.0\ex7.csproj.CoreCompileInputs.cache
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\obj\Debug\net8.0\ex7.dll
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\obj\Debug\net8.0\refint\ex7.dll
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\obj\Debug\net8.0\ex7.pdb
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\obj\Debug\net8.0\ex7.genruntimeconfig.cache
+D:\Users\dando\Desktop\IT\C#\11.11\ex7\obj\Debug\net8.0\ref\ex7.dll
